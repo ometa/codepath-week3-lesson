@@ -1,4 +1,4 @@
-package org.ometa.lesson3;
+package org.ometa.lesson3.asynctask;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ImageView;
+
+import org.ometa.lesson3.R;
 
 public class MainActivity extends AppCompatActivity {
 

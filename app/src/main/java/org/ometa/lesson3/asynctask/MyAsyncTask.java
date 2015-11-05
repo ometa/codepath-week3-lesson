@@ -1,4 +1,4 @@
-package org.ometa.lesson3;
+package org.ometa.lesson3.asynctask;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
